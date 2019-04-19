@@ -16,6 +16,9 @@
 
 	<properties>
 		<java.version>1.8</java.version>
+
+		<!--<spring.boot.mainclass>RESTful_web_service.Application</spring.boot.mainclass>-->
+
 	</properties>
 
 	<dependencies>
@@ -82,6 +85,7 @@
 
 
 	</dependencies>
+
 
 	<build>
 		<plugins>
