@@ -13,6 +13,7 @@ import java.util.Map;
         "bid",
         "ask"
 })
+
 public class Rate {
 
     @JsonProperty("no")
